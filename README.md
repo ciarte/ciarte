@@ -7,6 +7,6 @@
 - 
 - 📫 How to reach me: 
 <p align="center">
-<a href="https://www.linkedin.com/in/gabriel-iciarte/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%Iciarte%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/gabriel-iciarte/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gabriel-iciarte-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:gabriel_viki@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-:gabriel_viki@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>

@@ -3,20 +3,10 @@
 - 💻Desarrollador web full-stack
 - 🌱 I’m currently learning: React native, Dart, Flutter
 - 👯 I’m looking to collaborate on ...Proyectos  sobre desarrollo movile y juegos con Unity
+-   ⚡ Languages: JavaScript, C#
 - 
 - 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/gabriel-iciarte/">
-  <img align="left" alt="Gabriel's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-const aboutMe = {
-  hardSkills: {
-    programmingLanguages: ["JavaScript","C#"],
-    technologies: 
-      FrontEnd: ["React", "Redux", "Material UI"],
-      BackEnd: ["Sequelize", "Express", "Node"],
-      DataBases: ["PostgreSQL", "MongoDB"],
-    },
-  },
-  softSkills: ["discipline", "curiosity", "communication", "work-team","creativity"],
-  hobbies: ["reading","cocinar", "learning"]
-};
+<p align="center">
+<a href="https://www.linkedin.com/in/gabriel-iciarte/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:gabriel_viki@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+</p>

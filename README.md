@@ -4,12 +4,10 @@
 - 🌱 I’m currently learning: React native, Dart, Flutter
 - 👯 I’m looking to collaborate on ...Proyectos  sobre desarrollo movile y juegos con Unity
 - 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/gabriel-iciarte/">
+- 📫 How to reach me: 
+<a href="https://www.linkedin.com/in/gabriel-iciarte/">
   <img align="left" alt="Gabriel's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-- ⚡ Fun fact: ...
-- 
 const aboutMe = {
   hardSkills: {
     programmingLanguages: ["JavaScript","C#"],
